@@ -1,0 +1,6 @@
+Tabla de verdad de implicación lógica:
+P | Q | P -> Q
+V | V | V
+V | F | F
+F | V | V
+F | F | V

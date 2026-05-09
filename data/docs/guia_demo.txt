@@ -1,0 +1,7 @@
+La búsqueda en amplitud BFS explora primero los nodos más cercanos al estado inicial. Si todas las acciones tienen el mismo costo, puede encontrar la solución más corta.
+La búsqueda en profundidad DFS avanza por una rama hasta llegar al nivel más profundo antes de retroceder mediante backtracking.
+El algoritmo A* utiliza la función f(n)=g(n)+h(n), donde g(n) es el costo real acumulado y h(n) es la estimación heurística hacia la meta.
+La lógica de primer orden permite representar objetos, propiedades y relaciones mediante predicados, variables y cuantificadores.
+Prolog es un lenguaje de programación lógica basado en hechos, reglas, consultas, unificación y retroceso.
+El aprendizaje supervisado trabaja con datos etiquetados; el no supervisado busca patrones sin etiquetas; el aprendizaje por refuerzo aprende mediante recompensas y penalizaciones.
+Las redes neuronales artificiales ajustan pesos durante el entrenamiento mediante propagación hacia adelante, función de pérdida, descenso de gradiente y retropropagación.
